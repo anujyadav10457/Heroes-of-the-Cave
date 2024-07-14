@@ -1,4 +1,4 @@
-# Heroes-of-the-Cave  
+# Dragon Repeller
 Welcome to Dragon Repeller, an interactive text-based RPG game where your goal is to defeat the dragon that is preventing people from leaving the town. This game involves exploring various locations, fighting monsters, and upgrading your character to ultimately defeat the dragon.  
 
 ## Game Overview
